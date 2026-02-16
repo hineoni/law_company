@@ -1,0 +1,1 @@
+ /Users/viktoriabazanova/mobile_projects/law_company/law_company/.dart_tool/flutter_build/3b62126e6f4646b23291fcef2e7e22bd/native_assets.json: 

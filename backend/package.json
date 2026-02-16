@@ -1,0 +1,20 @@
+{
+  "name": "nitro-app",
+  "private": true,
+  "scripts": {
+    "build": "nitro build",
+    "dev": "nitro dev --host",
+    "preview": "node .output/server/index.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.10",
+    "@types/pg": "^8.16.0",
+    "h3": "^1.15.4",
+    "nitropack": "^2.12.4",
+    "nuxt": "^4.3.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "pg": "^8.17.2"
+  }
+}
